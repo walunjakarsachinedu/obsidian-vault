@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6515afd13cef74a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/javascript-basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d1a096c58c17d1",
+  "active": "6515afd13cef74a1",
   "lastOpenFiles": [
-    "intership.md",
+    "Untitled.md",
     "javascript/javascript-basics.md",
+    "intership.md",
     "Untitled 1.md",
     "notes/bash script.md",
     "notes/typescript/oop.md",
     "Bug.md",
     "Tasks.md",
     "2023-01-29.md",
-    "nodejs/testing.md",
-    "nodejs/handling errors.md"
+    "nodejs/testing.md"
   ]
 }
