@@ -6,6 +6,7 @@ Based on ECMAScript specification version of javascript is determine. e.g., (ES6
 Every browser have javascript engine to javavscript.
 Node is c++ program with embedded chrome "V8" javascript engine. 
 
+enable strict mode in javascript add  "`use strict;`" at top of javascript file.
 
 ### Basics
 
