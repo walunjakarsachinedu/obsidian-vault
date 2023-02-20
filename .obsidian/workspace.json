@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97b871371a3c2125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "html.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,11 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6515afd13cef74a1",
+  "active": "d6d1a096c58c17d1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "javascript/javascript-basics.md",
     "intership.md",
+    "javascript/javascript-basics.md",
+    "html.md",
     "Untitled 1.md",
     "notes/bash script.md",
     "notes/typescript/oop.md",

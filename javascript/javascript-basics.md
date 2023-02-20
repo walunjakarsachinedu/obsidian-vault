@@ -19,6 +19,7 @@ Constants:
 Primitive Types:
 ```javascript
 let name = 'sachin'; // String literal
+let name = `sachin`; // Template literal
 let mark = 100; // Number literal
 let isApproved = true; // Boolean literal
 let firstName = undefined;
@@ -117,3 +118,52 @@ let colors = ['red', 'green', 'blue'];
 for(let i of colors) console.log(i);
 // outputs: red green blue
 ```
+
+
+
+#### Objects
+
+##### constructing object:
+1. factory function  e.g., `function student(name, age) { return {"name": name, "age": age} };`
+2. constructor function 
+	- first letter must be capital & generally pascal naming convention is followed.
+	- e.g., `function Student(name, age) { this.name = name, this.age = age; }`
+	- each object has constructor property which store reference function use to construct that object.
+
+object are **dynamic** in javascript meaning we can add remove property at runtime.
+
+**Function are object**. e.g., `const Student= new Function('name', 'age', "this.name=name; this.age=age;"); 
+
+object is **reference type** means **variable stores address of memory location** where value is stored. so when we compare equality of object reference are compary instead of value.
+
+**Enumerating object**: 
+use `for..in` to loop through keys & `for..of` to loop through values
+`Object.keys` & `Object.entries` use to get key & key-value entries in object.
+
+`in operator` is use check for presence of key in object.
+
+use object in javascript: `Math, String, Date`
+
+
+#### Array
+
+adding element: `push, unshift, splice`
+finding element: 
+- primitive type element: `indexOf`, 
+- reference type element: `find`
+removing element: `pop, shift, splice`
+removing all element: set length to zero as  `arr.length = 0`
+combining array: `concat(second_array)`
+slicing array: `slice(start_index, end_index)`
+spread operator: `const copyArr = [...arr];`
+iterating array: 
+	iterating through values: `for(let value of arr) console.log(value);`
+	iterating through index: `for(let index in arr) console.log(index);`
+	iterating use forEach: `arr.forEach((value, index) {});`
+joining array to string: `arr.join(sperator_string)` 
+string spliting array: `str.join(sperator_string)` 
+sorting array: 
+- array containing primitive type element: `sort`
+- array containing reference type element: `sort((a,b) {});`
+	value are swap if negative value is comparison function return negative value
+ 
