@@ -44,6 +44,14 @@
             }
           },
           {
+            "id": "ac315df6fd0564c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "6515afd13cef74a1",
             "type": "leaf",
             "state": {
@@ -68,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/javascript-basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/javascript-basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "javascript/javascript-basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,17 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d1a096c58c17d1",
+  "active": "7241f6108a01a8a1",
   "lastOpenFiles": [
-    "intership.md",
     "javascript/javascript-basics.md",
+    "angular/angular fundamentals.md",
+    "intership.md",
     "html.md",
     "Untitled 1.md",
     "notes/bash script.md",
     "notes/typescript/oop.md",
     "Bug.md",
     "Tasks.md",
-    "2023-01-29.md",
-    "nodejs/testing.md"
+    "2023-01-29.md"
   ]
 }

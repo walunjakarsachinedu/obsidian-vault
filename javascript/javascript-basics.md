@@ -142,6 +142,9 @@ use `for..in` to loop through keys & `for..of` to loop through values
 
 `in operator` is use check for presence of key in object.
 
+Private method & property : local, variable function inside constructor function
+	because of **closure** this private member always remain in memory.
+
 use object in javascript: `Math, String, Date`
 
 
@@ -166,4 +169,53 @@ sorting array:
 - array containing primitive type element: `sort`
 - array containing reference type element: `sort((a,b) {});`
 	value are swap if negative value is comparison function return negative value
- 
+testing element of array: `every(v => {}) & some(v => {})`
+filtering element of array: `filter(v => {})`
+mapping element of array: `map(v => {})`  (function passed to map should return updated value of `v` )
+reducing array (summarization): `reduce((accumulator, currentValue) {});`
+
+
+##### Function
+
+function declaration: syntax e.g., `function add(a,b) {return a+b;}`
+	we can call function before its declaration  & this not true with function expression
+function expression: syntax e.g., 
+	`const a = function add(a,b) {return a+b;}`
+	`const b = function(a,b) {return a+b;}`
+function argument: 
+	implicit default value of parameter is `undefined`.
+	setting explicit default value: `function add(a=0, b=0) {return a+b;}`
+	all extra argument to function are ignored.
+	rest operator: It is use to get variable number of arguments. syntax: `function(...args) {}`
+getter/setter:
+```javascript
+const person = {
+    firstName: "sachin",
+    lastName: "walunjakar",
+    get fullName() {return this.firstName + " " + this.lastName;},
+    set fullName(value) {
+        let name = value.split(" ");
+        this.firstName = name[0];
+        this.lastName = name[1];
+    }
+};
+```
+global/local scope:
+	variable define with `let & const` has scope limited to block in which they are defined & if there is no block then variable has global scope.
+	local variable take precedence over global variable.
+	scope of variable define with `var` scope is not limit to block in which it is define but limited function in which it is defined. 
+	 function scope: `var`
+	 block scoped variable: `let, const`
+	`this` keyword: It reference object that is executing current function
+		for methods this references obj
+		for normal function this references global object like window, global.
+	   arrow function inherit `this` from calling function.
+	     
+
+
+
+
+
+
+
+	
