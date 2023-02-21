@@ -58,12 +58,12 @@ Functions:
 
 ### Operators
 
-arithemetic operators:  `+, -, *, /, %, **, ++, --.  
-assignment operators:  `=, +=, -=, -=, *=, /=, **=.  
+arithemetic operators:  `+, -, *, /, %, **, ++, --`.  
+assignment operators:  `=, +=, -=, -=, *=, /=, **=`.  
 comparsion operators:  `<, >, <=, =>, ==, ===, !==`.    
-ternary operators: `(condition)? exp1 : exp2;.  
-logical operator:  `&&, ||, !.  
-bitwise operator:  `&, |.  
+ternary operators: `(condition)? exp1 : exp2;`.  
+logical operator:  `&&, ||, !`.  
+bitwise operator:  `&, |`.  
 
 `===` (strict equality) vs `==` (loose equality):   
 	`===` compairs both **value & type**  
@@ -73,7 +73,7 @@ local operator with non-boolean:
 	`&&` :  return last non falsy value.  
 	`||` :   return first non falsy value.   
 	 ! : return `true` false falsy value & `false` for other values.  
-	where falsy values are  `NaN, null, undefined, 0, false, '' `
+	where falsy values are  `NaN, null, undefined, 0, false, ''`
 
 
 ### Control Flow 
