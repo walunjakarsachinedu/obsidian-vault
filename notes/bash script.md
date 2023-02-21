@@ -29,3 +29,5 @@ welcome() {
 }
 welcome "sachin"   # outputs: welcome sachin
 ```
+
+`IFS` (Internal Field Separator) is special variable use in bash. 

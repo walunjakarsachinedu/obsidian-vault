@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a9447e5eba5c35a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/javascript-basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c268d64d8edeb102",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/javascript-basics.md",
+                "file": "notes/bash script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/javascript-basics.md",
+                "file": "notes/bash script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/javascript-basics.md"
+                "file": "notes/bash script.md"
               }
             }
           }
@@ -160,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9447e5eba5c35a2",
+  "active": "7241f6108a01a8a1",
   "lastOpenFiles": [
-    "javascript/modules.md",
-    "javascript/javascript-basics.md",
-    "javascript/prototypical inheritance.md",
+    "typescript/oop.md",
     "javascript/classes.md",
     "notes/bash script.md",
+    "javascript/javascript-basics.md",
+    "javascript/modules.md",
+    "javascript/prototypical inheritance.md",
     "javascript/prototypes.md",
     "angular/angular fundamentals.md",
     "intership.md",
-    "html.md",
-    "Untitled 1.md"
+    "html.md"
   ]
 }
