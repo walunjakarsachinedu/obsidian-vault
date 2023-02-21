@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6d1a096c58c17d1",
+            "id": "7d830a3f7db91760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/bash script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9447e5eba5c35a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "config",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d1a096c58c17d1",
+  "active": "a9447e5eba5c35a2",
   "lastOpenFiles": [
-    "notes/bash script.md",
-    "javascript/modules.md",
-    "javascript/classes.md",
     "javascript/javascript-basics.md",
-    "nodejs/express.md",
-    "typescript/oop.md",
-    "oop/OOP Notes.md",
-    "oop/Implementation in CPP.md",
+    "javascript/modules.md",
+    "javascript/prototypical inheritance.md",
+    "javascript/classes.md",
+    "notes/bash script.md",
+    "javascript/prototypes.md",
+    "angular/angular fundamentals.md",
     "intership.md",
-    "Tasks.md"
+    "html.md",
+    "Untitled 1.md"
   ]
 }

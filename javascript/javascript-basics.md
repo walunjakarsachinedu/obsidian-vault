@@ -32,10 +32,12 @@ let map = WeakMap(); // key get garbage collected if their is not reference to k
 Dynamic Typing: Variable can change its type during runtime & store different type of values.
 
 Objects: 
-	defining object: `let person = {name: 'sachin', 'marks': 100};`
-	 accessing element: 
-		 dot notation: `person.name = 'ajay';`
-		 bracket notation: `person['name'] = 'ajay';`
+- defining object: `let person = {name: 'sachin', 'marks': 100};`
+- to create with key name is equal to variable name, we can use following syntax: 
+	- `let name="sachin", marks=100; let person = {name, marks};`
+- accessing element: 
+	- dot notation: `person.name = 'ajay';`
+	- bracket notation: `person['name'] = 'ajay';`
 Arrays:
 	defining array: `let color = ['red', 'green', 'blue'];`
 	javascript array are 
