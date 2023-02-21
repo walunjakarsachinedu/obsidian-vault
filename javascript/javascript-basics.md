@@ -25,6 +25,9 @@ let mark = 100; // Number literal
 let isApproved = true; // Boolean literal
 let firstName = undefined;
 let selectedColor = null;
+// ES6 types
+let symbol = Symbol(); // give unique identifier
+let map = WeakMap(); // key get garbage collected if their is not reference to key, so called weakmap.
 ```
 Dynamic Typing: Variable can change its type during runtime & store different type of values.
 
@@ -179,7 +182,7 @@ reducing array (summarization): `reduce((accumulator, currentValue) {});`
 ##### Function
 
 function declaration: syntax e.g., `function add(a,b) {return a+b;}`
-	we can call function before its declaration  & this not true with function expression
+	hoisting: we can call function before its declaration  & this not true with function expression
 function expression: syntax e.g., 
 	`const a = function add(a,b) {return a+b;}`
 	`const b = function(a,b) {return a+b;}`

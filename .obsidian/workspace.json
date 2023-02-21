@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d830a3f7db91760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/prototypical inheritance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9447e5eba5c35a2",
+            "id": "d6d1a096c58c17d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "config",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9447e5eba5c35a2",
+  "active": "d6d1a096c58c17d1",
   "lastOpenFiles": [
     "javascript/javascript-basics.md",
-    "javascript/prototypical inheritance.md",
-    "javascript/classes.md",
-    "javascript/prototypes.md",
-    "angular/angular fundamentals.md",
-    "intership.md",
-    "html.md",
-    "Untitled 1.md",
+    "nodejs/express.md",
     "notes/bash script.md",
-    "notes/typescript/oop.md"
+    "javascript/classes.md",
+    "notes/typescript/oop.md",
+    "oop/OOP Notes.md",
+    "oop/Implementation in CPP.md",
+    "intership.md",
+    "Tasks.md",
+    "Bug.md"
   ]
 }
