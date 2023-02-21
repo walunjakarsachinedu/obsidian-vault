@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/classes.md",
+                "file": "javascript/modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/classes.md",
+                "file": "javascript/modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/classes.md",
+                "file": "javascript/modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/classes.md"
+                "file": "javascript/modules.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "d6d1a096c58c17d1",
   "lastOpenFiles": [
+    "notes/bash script.md",
+    "javascript/modules.md",
+    "javascript/classes.md",
     "javascript/javascript-basics.md",
     "nodejs/express.md",
-    "notes/bash script.md",
-    "javascript/classes.md",
-    "notes/typescript/oop.md",
+    "typescript/oop.md",
     "oop/OOP Notes.md",
     "oop/Implementation in CPP.md",
     "intership.md",
-    "Tasks.md",
-    "Bug.md"
+    "Tasks.md"
   ]
 }
