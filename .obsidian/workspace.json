@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d830a3f7db91760",
+            "id": "989cefed5631c7af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bash script.md",
+                "file": "typescript/typescript-basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c1bb55bfc69a6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/advanced-types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cae1a1dcd234834a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/tsconfig.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bash script.md",
+                "file": "typescript/advanced-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bash script.md",
+                "file": "typescript/advanced-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bash script.md"
+                "file": "typescript/advanced-types.md"
               }
             }
           }
@@ -146,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7241f6108a01a8a1",
+  "active": "5c1bb55bfc69a6f9",
   "lastOpenFiles": [
+    "typescript/tsconfig.md",
+    "typescript/advanced-types.md",
+    "typescript/typescript-basics.md",
+    "javascript/javascript-basics.md",
+    "notes/bash script.md",
     "typescript/oop.md",
     "javascript/classes.md",
-    "notes/bash script.md",
-    "javascript/javascript-basics.md",
     "javascript/modules.md",
     "javascript/prototypical inheritance.md",
-    "javascript/prototypes.md",
-    "angular/angular fundamentals.md",
-    "intership.md",
-    "html.md"
+    "javascript/prototypes.md"
   ]
 }
