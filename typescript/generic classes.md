@@ -74,5 +74,5 @@ type Nullable<T> = {
 	[K in keyof T]: T[K] | null
 }
 ```
-
+ 
 >typescript provide built-in utility types for type mapping. [click for more info.](https://www.typescriptlang.org/docs/handbook/utility-types.html)

@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "989cefed5631c7af",
+            "id": "e6b69701b355637d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/class, interface & oop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c1bb55bfc69a6f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript/generic classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11232dffb62cad2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript/tsconfig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cae1a1dcd234834a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript/tsconfig.md",
+                "file": "typescript/decorators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index si",
+                "query": "propertydesc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/generic classes.md",
+                "file": "typescript/decorators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/generic classes.md",
+                "file": "typescript/decorators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/generic classes.md"
+                "file": "typescript/decorators.md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c1bb55bfc69a6f9",
+  "active": "e6b69701b355637d",
   "lastOpenFiles": [
-    "typescript/class, interface & oop.md",
+    "typescript/generic classes.md",
+    "typescript/decorators.md",
+    "typescript/module.md",
+    "typescript/advanced-types.md",
     "typescript/tsconfig.md",
     "typescript/typescript-basics.md",
-    "typescript/generic classes.md",
+    "javascript/prototypical inheritance.md",
+    "typescript/class, interface & oop.md",
     "javascript/javascript-basics.md",
-    "typescript/advanced-types.md",
-    "typescript/module.md",
-    "javascript/modules.md",
-    "notes/bash script.md",
-    "javascript/classes.md"
+    "javascript/modules.md"
   ]
 }
