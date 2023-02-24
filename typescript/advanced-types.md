@@ -19,7 +19,7 @@ type Resizable = { resize: () => void };
 type Widget = Draggable & Resizable; // widget can use method in both types
 
 // literal type
-type Binary = 0 | 1;
+type Binary = 0 | 1;  type Rating = 'good' | 'best' | 4 | 5;
 
 
 // optional property access operator
