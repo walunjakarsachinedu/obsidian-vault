@@ -78,4 +78,4 @@ lodash: popular library contains useful functions for object & array.
 bcrypt: use for hashing passwords.
 jsonwebtoken: use for generating jsonwebtoken.
 
-winston: library use for logging. [click for more details](handling%20errors#winston)
+winston: library use for logging. [click for more details](handling%20errors.md#winston)

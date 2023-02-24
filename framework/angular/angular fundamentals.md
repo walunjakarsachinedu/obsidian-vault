@@ -2,7 +2,9 @@ component: encapsulate data, html template, logic
 - similer to widget
 - real world app has tree of components
 - whenever angular sees selector of component it will render template of component
-- command to create component: ng g c component_name
+
+module: container group of related components 
+	- when module become very big we may need to split that module in sub-module
 
 
 dependency injection: 
