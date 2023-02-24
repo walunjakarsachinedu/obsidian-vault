@@ -14,4 +14,6 @@ configuration for typescript compiler.
 - debugging:
 	- sourceMap: map of typescript code to javascript code. (its value must be true for debugging)   
 - noImplicitAny: when set to false typescript do not warn about the implicit `any` type 
+- noImplicitOverride: Ensure overriding members in derived classes are marked with an override modifier.
+- module: use to set module formate
     

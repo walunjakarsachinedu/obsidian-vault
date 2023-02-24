@@ -8,19 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6d1a096c58c17d1",
+            "id": "989cefed5631c7af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/oop.md",
+                "file": "typescript/class, interface & oop.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e80695db22991a50",
+            "id": "5c1bb55bfc69a6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/generic classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11232dffb62cad2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/tsconfig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cae1a1dcd234834a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index si",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c268d64d8edeb102",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/tsconfig.md",
+                "file": "typescript/generic classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/tsconfig.md",
+                "file": "typescript/generic classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/tsconfig.md"
+                "file": "typescript/generic classes.md"
               }
             }
           }
@@ -159,20 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e80695db22991a50",
+  "active": "5c1bb55bfc69a6f9",
   "lastOpenFiles": [
-    "Untitled.md",
+    "typescript/class, interface & oop.md",
     "typescript/tsconfig.md",
-    "typescript/oop.md",
-    "typescript/advanced-types.md",
     "typescript/typescript-basics.md",
+    "typescript/generic classes.md",
+    "javascript/javascript-basics.md",
+    "typescript/advanced-types.md",
+    "typescript/module.md",
     "javascript/modules.md",
     "notes/bash script.md",
-    "javascript/classes.md",
-    "javascript/javascript-basics.md",
-    "nodejs/express.md",
-    "oop/OOP Notes.md",
-    "oop/Implementation in CPP.md",
-    "intership.md"
+    "javascript/classes.md"
   ]
 }
