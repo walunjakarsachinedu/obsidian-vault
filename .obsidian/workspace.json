@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a507934cec7f09d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "framework/angular/ng commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ca24cac72d54254",
             "type": "leaf",
             "state": {
@@ -32,15 +20,18 @@
             }
           },
           {
-            "id": "f6de4ccfaea247c3",
+            "id": "2a507934cec7f09d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "framework/angular/ng commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "framework/angular/angular fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "framework/angular/angular fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "framework/angular/angular fundamentals.md"
+              }
             }
           }
         ]
@@ -163,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6de4ccfaea247c3",
+  "active": "3ca24cac72d54254",
   "lastOpenFiles": [
-    "Tasks.md",
-    "languages/html/cheat-sheet.md",
-    "Untitled.md",
-    "framework/angular/angular fundamentals.md",
     "framework/angular/ng commands.md",
+    "framework/angular/angular fundamentals.md",
+    "framework/nodejs/handling errors.md",
+    "languages/html/Untitled.md",
+    "Tasks.md",
+    "languages/html & css/cheat-sheet.md",
+    "Untitled.md",
     "Untitled.canvas",
     "languages/javascript/modules.md",
-    "languages/javascript/javascript-basics.md",
-    "languages/javascript/classes.md",
-    "languages/typescript/integration with javascript.md"
+    "languages/javascript/javascript-basics.md"
   ]
 }
