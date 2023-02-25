@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/javascript/modules.md",
+                "file": "framework/nodejs/mongoose.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages/javascript/modules.md",
+                "file": "framework/nodejs/mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languages/javascript/modules.md",
+                "file": "framework/nodejs/mongoose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "languages/javascript/modules.md"
+                "file": "framework/nodejs/mongoose.md"
               }
             }
           }
@@ -146,21 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7241f6108a01a8a1",
+  "active": "e80695db22991a50",
   "lastOpenFiles": [
+    "framework/nodejs/module & packages.md",
+    "framework/nodejs/http.md",
+    "framework/nodejs/handling errors.md",
+    "framework/nodejs/authentication & authorization.md",
+    "framework/nodejs/express.md",
     "languages/javascript/modules.md",
     "Untitled.md",
     "languages/javascript/prototypical inheritance.md",
     "languages/javascript/javascript-basics.md",
     "languages/javascript/classes.md",
-    "framework/nodejs/express.md",
     "framework/nodejs/testing.md",
     "framework/nodejs/remain to do.md",
     "framework/nodejs/mongoose.md",
-    "framework/nodejs/module & packages.md",
-    "framework/nodejs/http.md",
-    "framework/nodejs/handling errors.md",
-    "framework/nodejs/authentication & authorization.md",
     "framework/angular/ng commands.md",
     "framework/angular/angular fundamentals.md",
     "languages/html & css/cheat-sheet.md",

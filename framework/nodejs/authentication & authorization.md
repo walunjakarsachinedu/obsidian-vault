@@ -1,5 +1,5 @@
 ### Authentication
-It is process of identifying if the user is who they claim they are.
+It is process of identifying if the user is who they claim they are.  
 It is login, where we send username & password to server & server  authenticates us.
 
 - We don't store password as simple string in database, we first hash the password then store. So, it will be not visible to anyone. 
@@ -17,8 +17,8 @@ bool a = await bcrypt.compare(entered_password, hashed_password);
 
 
 ### Authorization
-It is process of determining if the user has right permission to perform given operation.
-After authentication, token is send back to client which determine level of access to resource or in simple words determine "authorization".
+It is process of determining if the user has right permission to perform given operation.  
+After authentication, token is send back to client which determine level of access to resource or in simple words determine "authorization".  
 
 #### JWT
 It is **json web token** send by server to client after login.    

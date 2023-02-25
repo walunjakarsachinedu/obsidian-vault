@@ -13,7 +13,7 @@ command: `mongoose.connect('url/to/database/databaseName')`
 
 #### Schema 
 -  **Types**: 
-	`String, Number, Date, Buffer, Boolean, ObjectID`
+	`String, Number, Date, Buffer, Boolean, ObjectID`  
 	Array type: wrap schema type with "[]" brackets. e.g., `[String]`
  
  >  Important note:  data & method should be define on schema before it can use for creating model. If method is define after creating model, we can't access them using model.
@@ -21,19 +21,18 @@ command: `mongoose.connect('url/to/database/databaseName')`
 - **Validation**:
 	- built-in validation: `required, enum, minlength, maxlength, match, min, max
 	- custom validation: `validate.validator`  it take function as value
-	- when validation failed, error object is thrown & this error object has `errors` property contain error for each field, and for each error `error.message` gives description of error.
-	**Schema Type**: 
-		`set, get` use to set custom setter and getter for fields
-		For string `lowercase, uppercase, trim`
+	- when validation failed, error object is thrown & this error object has `errors` property contain error for each field, and for each error `error.message` gives description of error.  
+         
+- **Schema Type**: 
+	- `set, get` use to set custom setter and getter for fields
+	- For string `lowercase, uppercase, trim`
 
-
+	
 #### Updating Document:
 - Query first : first we query document then perform update  
 	- use any `find` to get objects then perform update and call save method on it.
 	- In short, Directly updating object get using `find` method & calling `save()` method.
 - Update first : direct update document    `model.update(<filterObject>, <updateObject>)`
-
-
 - **Updating specific element in array containing embedded document**
 ``` javascript
   const course = await Course.updateOne({ _id: courseId}, 
@@ -41,7 +40,7 @@ command: `mongoose.connect('url/to/database/databaseName')`
     {arrayFilters: [{"i._id": "63ddd5ab88916f1e5de74457"}]}
   );
 ```
-
+	
 
 ### Relationship among objects:
 - Using Reference: storing reference of document (stored in other collection)

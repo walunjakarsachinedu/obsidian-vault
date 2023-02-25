@@ -7,11 +7,13 @@ Handling get request: `app.get('/', (req, res) => {})`
    
 req: provide info about request  
 - `req.params` give access to url parameters  ("`/courses/:id`" in this url "id" is url parameter )  
-- `req.query` give access to url query parameters ("`/courses/?sort=asc`"  in this is query parameters)  
-- `req.body` give access to request body  
+- `req.query` give access to url query parameters ("`/courses/?sort=asc`"  in this is query parameters)
+- `req.body` give access to request body    
+    
 res: provide response to client  
 - `res.send()` send response
-- `res.status({http-status})` set status of response
+- `res.status({http-status})` set status of response    
+	
 dynamically setting port for api: `const port = process.env.port || 3000;`  
 
 #### Middle-ware 
@@ -24,9 +26,10 @@ Useful middleware:
 - express.static('dir_name')    // give access to static files in "`dir_name`"
 - helmet   // helps to secure express application
 - morgan // use for performing logging on both console and files  (use for debugging)  
+	
 Note: middle-ware **impact performance**, so use only when it is required.
-
-
+	
+	
 ### Router
 A router in Express is an isolated instance of middleware and routes that can be mounted on a specific path within the main Express application.   
 It provides a way to modularize your application and define separate routes for different parts of your app, making it easier to manage and maintain your code.  
