@@ -60,7 +60,7 @@ class Product { constructor(public name: string, public price: number) {} }
 let indexType: keyof Product;  // 'name'|'price' union type
 ```
 
-Type mapping: use to create new type based on existing.
+Type mapping: use to create new type based on existing class.
 ```typescript
 interface Product {
 	name: string;

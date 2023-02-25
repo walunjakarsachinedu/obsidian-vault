@@ -83,7 +83,7 @@ command: `mongoose.connect('url/to/database/databaseName')`
 
 #### Tricks : 
 - for `sort` and `select` function we can pass fields separated by space in string
-	   - e.g., `sort('name -price')` this sort name in asc & then name in desc
-	   - e.g., `select('name -price')` this select name & not select price field
+   - e.g., `sort('name -price')` this sort name in asc & then name in desc
+   - e.g., `select('name -price')` this select name & not select price field
 	
 

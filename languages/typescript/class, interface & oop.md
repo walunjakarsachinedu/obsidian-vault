@@ -53,8 +53,9 @@ abstract class Shape {
 	constructor(public color: string) {}
 	abstract render(): void; 
 }
-class Circle extends Shape { 
-	constructor(public radius: number, color: string) { super(color); }
+class Circle extends Shape {
+  constructor(public radius: number, color: string) { super(color); }
+  render(): void { throw new Error("Method not implemented."); } 
 }
 
 // pure abstract classes: it do not provide any logic or any algorithm, it just provide structure to object

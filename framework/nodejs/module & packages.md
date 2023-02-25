@@ -1,8 +1,8 @@
 ### Module
-It is javascript file containing similar object grouped together
-object in module are private by default in module
-export object in module: `exports.variable_name = object_name`
-every module is wrap inside **Wrapper Function** which provide global looking variable like `require`, `exports`, `process.env` which specific to each module
+It is javascript file containing similar object grouped together  
+object in module are private by default in module   
+export object in module: `exports.variable_name = object_name`  
+every module is wrap inside **Wrapper Function** which provide global looking variable like `require`, `exports`, `process.env` which specific to each module  
 
 > Important: In JavaScript, modules are typically implemented using a single instance pattern, meaning that only one instance of a module is loaded in memory and shared across all imports of that module.
 
@@ -27,24 +27,24 @@ import:
 It stores meta data out project (like name, dependencies, dev-dependencies)
 
 #### NPM Commands:
-install all packages in package.json: `npm install`
-install : `npm install package`   or `npm i package`
-uninstall: `npm uninstall package`  or `npm un package`
-list: `npm list`   (to see only project dependencies and not subdependencies use `--depth=0` flag) 
-list: `npm list --outdated`
-update: `npm update`   (use `npm-check-updates` package for installing latest version)
-install dev-dependencies: `npm i package --save-dev`
-install specific version: `npm install package@5.0.0`
-view specific package: `npm view package [property]`
+install all packages in package.json: `npm install`   
+install : `npm install package`   or `npm i package`  
+uninstall: `npm uninstall package`  or `npm un package`  
+list: `npm list`   (to see only project dependencies and not subdependencies use `--depth=0` flag)    
+list: `npm list --outdated`  
+update: `npm update`   (use `npm-check-updates` package for installing latest version)   
+install dev-dependencies: `npm i package --save-dev`  
+install specific version: `npm install package@5.0.0`  
+view specific package: `npm view package [property]`  
 
 > Note: To make changes globally use `-g` flag.
 
 
 #### Useful package
-**nodemon**: automatically rebuild project based on changes made in file
-**jshint**: check commonly made mistakes and potential bugs`
-**underscore**: collection of useful function
-**morgan**: logging (middleware)
+**nodemon**: automatically rebuild project based on changes made in file  
+**jshint**: check commonly made mistakes and potential bugs`  
+**underscore**: collection of useful function  
+**morgan**: logging (middleware)  
 
 **joi**: powerful tool for validating json data
 - give useful error message for invalid data
@@ -58,8 +58,8 @@ view specific package: `npm view package [property]`
 - we can use `config.get(path.to.field)` to get configuration.
 - it looks for configuration in folder "`./config`"
 - config package use special file : "custom-environment-variables.json" 
-	  - for storing mapping from key => environment variable values
-	  - this file can be use for storing password or secret info and set through environment variable
+  - for storing mapping from key => environment variable values
+  - this file can be use for storing password or secret info and set through environment variable
 - if `NODE_ENV==filename`  then it load configuration from "config/filename.json" 
 
 **debug**: use to show debug message based on environment-variable `DEBUG`
@@ -75,7 +75,7 @@ view specific package: `npm view package [property]`
 lodash: popular library contains useful functions for object & array.
 - e.g., for object, it provide `pick` to create object from existing one with specified property
 
-bcrypt: use for hashing passwords.
-jsonwebtoken: use for generating jsonwebtoken.
-
+bcrypt: use for hashing passwords.  
+jsonwebtoken: use for generating jsonwebtoken.     
+    
 winston: library use for logging. [click for more details](handling%20errors.md#winston)

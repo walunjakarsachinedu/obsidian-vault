@@ -40,7 +40,7 @@ const logger = winston.createLogger({
 
 
 #### uncaught exception & unhandled rejection
-**uncaught exception** are exceptions which occur outside request processing pipeline.
-When uncaught exception occur, its best to terminate process.
-**unhandled rejection** are exception occur when promise end up in error state.
+**uncaught exception** are exceptions which occur outside request processing pipeline.   
+When uncaught exception occur, its best to terminate process.    
+**unhandled rejection** are exception occur when promise end up in error state.   
 

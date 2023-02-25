@@ -15,7 +15,7 @@ class Student {}
     
      
 parameterized decorators:       
-It is decorator factory that take arguments return new decorator    
+It is a decorator factory that take arguments return new decorator    
 
 ```typescript
 type ComponentOptions = { selector: string }

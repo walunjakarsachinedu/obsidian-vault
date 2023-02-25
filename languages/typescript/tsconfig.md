@@ -17,6 +17,3 @@ configuration for typescript compiler.
 - noImplicitOverride: Ensure overriding members in derived classes are marked with an override modifier.
 - experimentalDecorators: should be enabled inorder for using decorator
 - module: use to set module formate
-- 
-
-    

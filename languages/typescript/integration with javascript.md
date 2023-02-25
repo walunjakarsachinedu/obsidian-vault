@@ -14,7 +14,7 @@ export function calculateTax(income) {
 }
 ```
    
-2. using declaration files:  it file with name same as original js file but with extension `d.ts`
+2. using declaration files:  it is a file with name same as original js file but with extension `d.ts`
 	- with this approach if feature is not describe in declaration file, then that feature become invisible to compiler
 ```javascript
 // tax.js

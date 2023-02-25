@@ -1,23 +1,23 @@
 ### Getting Started
 
-ECMAScript (ES) is specification that javascript follows.
-Based on ECMAScript specification version of javascript is determine. e.g., (ES6) is newer version of javascript.
-
-Every browser have javascript engine to javavscript.
-Node is c++ program with embedded chrome "V8" javascript engine. 
-
-enable strict mode in javascript add  "`use strict;`" at top of javascript file.
+ECMAScript (ES) is specification that javascript follows.      
+Based on ECMAScript specification version of javascript is determine. e.g., (ES6) is newer version of javascript.      
+      
+Every browser have javascript engine to javavscript.     
+Node is c++ program with embedded chrome "V8" javascript engine.     
+    
+enable strict mode in javascript add  "`use strict;`" at top of javascript file.     
 
 ### Basics
 
-Variable: 
-	declaring variable: `let name;`  or `let name = 'sachin';`
-	default value for any uninitialized variable is `undefined`. 
-	 declaring multiple variable: `let name, age, marks=10;`
-Constants:
-	using constant: `const name = "value";`  (its compulsory to initialize while declaration)
-	
-Primitive Types:
+Variable:        
+- declaring variable: `let name;`  or `let name = 'sachin';`
+- default value for any uninitialized variable is `undefined`. 
+- declaring multiple variable: `let name, age, marks=10;`
+Constants:   
+- using constant: `const name = "value";`  (its compulsory to initialize while declaration)
+     	
+Primitive Types:      
 ```javascript
 let name = 'sachin'; // String literal
 let name = `sachin`; // Template literal
@@ -29,8 +29,8 @@ let selectedColor = null;
 let symbol = Symbol(); // give unique identifier
 let map = WeakMap(); // key get garbage collected if their is not reference to key, so called weakmap.
 ```
-Dynamic Typing: Variable can change its type during runtime & store different type of values.
-
+Dynamic Typing: Variable can change its type during runtime & store different type of values.     
+      
 Objects: 
 - defining object: `let person = {name: 'sachin', 'marks': 100};`
 - to create with key name is equal to variable name, we can use following syntax: 
@@ -188,13 +188,13 @@ use object in javascript: `Math, String, Date`
 - function declaration: syntax e.g., `function add(a,b) {return a+b;}`
 	- hoisting: we can call function before its declaration  & this not true with function expression
 - function expression: syntax e.g., 
-	`const a = function add(a,b) {return a+b;}.  
-	`const b = function(a,b) {return a+b;}.  
-- function argument: 
-	implicit default value of parameter is `undefined`.  
-	setting explicit default value: `function add(a=0, b=0) {return a+b;}.  
-	all extra argument to function are ignored.  
-	rest operator: It is use to get variable number of arguments. syntax: `function(...args) {}.   
+	- `const a = function add(a,b) {return a+b;}.  
+	- `const b = function(a,b) {return a+b;}.  
+- function argument:         
+	implicit default value of parameter is `undefined`.    
+	setting explicit default value: `function add(a=0, b=0) {return a+b;}`.    
+	all extra argument to function are ignored.       
+	rest operator: It is use to get variable number of arguments. syntax: `function(...args) {}.    
 getter/setter:  
 ```javascript
 const person = {

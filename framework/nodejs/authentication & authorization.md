@@ -21,10 +21,10 @@ It is process of determining if the user has right permission to perform given o
 After authentication, token is send back to client which determine level of access to resource or in simple words determine "authorization".
 
 #### JWT
-It is **json web token** send by server to client after login. 
-It is send with every req to server used as license or **identity of user.**
-Its payload is use to authorize the user.
-**jsonwebtoken** library is use for generating JWT.
+It is **json web token** send by server to client after login.    
+It is send with every req to server used as license or **identity of user.**  
+Its payload is use to authorize the user.  
+**jsonwebtoken** library is use for generating JWT.  
 ```javascript
 // creating token
 const token = jwt.sign({_id: user._id}, 'jwtPrivateKey');
@@ -41,11 +41,11 @@ const payload = jwt.sign(token, 'jwtPrivateKey')
 - If content of JWT tempared then digital signature become invalid.
 
 #### Protecting Routes
-Calling middleware before route which will verifying token & pass control to router only if token is correct.
+Calling middleware before route which will verifying token & pass control to router only if token is correct.   
 syntax: `app.post('/', [middleware1, middleware2, ...], (req, res) {});` 
-where middleware1, middleware2 route verify token & perform authorization.
+where middleware1, middleware2 route verify token & perform authorization.   
 
 
 ### Logging out User
-This feature should be implemented on client side because on server we are not storing any token or login data. 
+This feature should be implemented on client side because on server we are not storing any token or login data.    
 User can log out at client side by deleting token from local storage.
