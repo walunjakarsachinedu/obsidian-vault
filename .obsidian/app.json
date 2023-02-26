@@ -3,5 +3,6 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "source"
 }

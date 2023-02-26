@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/nodejs/mongoose.md",
+                "file": "languages/html & css/cheat-sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de80e91f7210dfa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "languages/html & css/html.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/nodejs/mongoose.md",
+                "file": "languages/html & css/html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/nodejs/mongoose.md",
+                "file": "languages/html & css/html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/nodejs/mongoose.md"
+                "file": "languages/html & css/html.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e80695db22991a50",
+  "active": "de80e91f7210dfa1",
   "lastOpenFiles": [
+    "languages/html & css/cheat-sheet.md",
+    "languages/html & css/html.md",
+    "framework/nodejs/mongoose.md",
     "framework/nodejs/module & packages.md",
     "framework/nodejs/http.md",
     "framework/nodejs/handling errors.md",
@@ -160,10 +176,8 @@
     "languages/javascript/classes.md",
     "framework/nodejs/testing.md",
     "framework/nodejs/remain to do.md",
-    "framework/nodejs/mongoose.md",
     "framework/angular/ng commands.md",
     "framework/angular/angular fundamentals.md",
-    "languages/html & css/cheat-sheet.md",
     "languages/typescript/typescript-basics.md",
     "languages/typescript/tsconfig.md",
     "languages/typescript/module.md",
@@ -173,7 +187,6 @@
     "languages/typescript/class, interface & oop.md",
     "typescript/tsconfig.md",
     "languages/typescript/advanced-types.md",
-    "languages/bash/bash script.md",
     "languages/typescript",
     "languages/javascript",
     "languages/html & css",
