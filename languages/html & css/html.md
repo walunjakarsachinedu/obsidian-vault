@@ -36,3 +36,6 @@ It is markup language, use to give structure to web page.
 	- multiple values passed to attribute are separated by semicolon(`;`)
 - white space: html doesn't care about white-space & newline & tab. Rendering is purely done using tags
 - comments: `<!-- comment -->` is syntax for comments in html. 
+- DOM: It is model represents tree structure of document.  
+	- most of attribute of html element has one to one mapping with property of dom object, 
+	- but for certain attribute their is no mapping, also for certain property in dom their is no attribute in html.

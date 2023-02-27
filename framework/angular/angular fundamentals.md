@@ -9,7 +9,7 @@
 **Template**: we can use value class member  inside template through interpolation
 - if value of member changes angular will automatically re-render DOM.
 - syntax use for templating is : `{{ }}`
+- interpolation in template is further translated into **property binding**
    
 **Dependency injection**: 
 - when dependency is registered as provider in module then angular will create single instance of that class for entire module. (singleton pattern)
-- command to create component: ng g s service_name
