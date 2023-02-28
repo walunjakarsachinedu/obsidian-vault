@@ -17,15 +17,15 @@
 	 - note: you don't need a selector if you have only one ng-content
 	  e.g, 
 ```html
-	<!-- info.component.html -->
-	<h1> <ng-content select=".title"> </h1>
-	<p> <ng-content select=".body"> </p>
+<!-- info.component.html -->
+<h1> <ng-content select=".title"> </h1>
+<p> <ng-content select=".body"> </p>
 
-	<!-- app.component.html -->
-	<info> 
-		<div class="title">Title</div>
-		<div class="body">This content of body...</div>
-	</info>
+<!-- app.component.html -->
+<info> 
+	<div class="title">Title</div>
+	<div class="body">This content of body...</div>
+</info>
 ```
 
       
