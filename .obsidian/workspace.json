@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "f1f22e9eee6bc44d",
+            "id": "110848d01290ddbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1f22e9eee6bc44d",
+  "active": "110848d01290ddbb",
   "lastOpenFiles": [
+    "framework/angular/building re-usable component.md",
     "framework/angular/angular fundamentals.md",
     "framework/angular/displaying data & handling event.md",
-    "framework/angular/building re-usable component.md",
     "framework/angular/ng commands.md",
     "languages/typescript/decorators.md",
     "languages/typescript/integration with javascript.md",
