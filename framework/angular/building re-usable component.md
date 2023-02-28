@@ -28,7 +28,8 @@
 	</info>
 ```
 
-#### Applying Styles
+      
+#### Applying Styles (ways)
 1. using `styleUrls` in component decorator 
 2. directly define style in `styles` argument of component decorator 
 3. using inline style in html code  as `<style></style>.
