@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c817388f9014e93c",
+        "id": "9dca006e05ac6ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "f3beae05d928e3e4",
+            "id": "13cb6310d076c81a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages/html & css/html.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "3da0e32c1dd4fbd5",
+            "id": "f1f22e9eee6bc44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/displaying data & handling event.md",
+                "file": "framework/angular/building re-usable component.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/displaying data & handling event.md",
+                "file": "framework/angular/building re-usable component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/displaying data & handling event.md",
+                "file": "framework/angular/building re-usable component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/displaying data & handling event.md"
+                "file": "framework/angular/building re-usable component.md"
               }
             }
           }
@@ -159,19 +155,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3da0e32c1dd4fbd5",
+  "active": "f1f22e9eee6bc44d",
   "lastOpenFiles": [
-    "Untitled.md",
     "framework/angular/displaying data & handling event.md",
     "framework/angular/angular fundamentals.md",
+    "framework/angular/building re-usable component.md",
+    "languages/typescript/decorators.md",
+    "languages/typescript/generic classes.md",
+    "languages/typescript/integration with javascript.md",
+    "languages/javascript/classes.md",
+    "languages/javascript/javascript-basics.md",
     "languages/html & css/html.md",
+    "Untitled.md",
     "framework/angular/ng commands.md",
     "framework/nodejs/handling errors.md",
     "languages/html/Untitled.md",
     "Tasks.md",
     "languages/html & css/cheat-sheet.md",
     "Untitled.canvas",
-    "languages/javascript/modules.md",
-    "languages/javascript/javascript-basics.md"
+    "languages/javascript/modules.md"
   ]
 }
