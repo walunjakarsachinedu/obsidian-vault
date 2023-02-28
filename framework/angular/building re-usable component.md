@@ -16,7 +16,7 @@
 		 - With `ng-container` angular will just take content & use it to replace injection point. whereas `div` replace it with content with selector
 	 - note: you don't need a selector if you have only one ng-content
 	  e.g, 
-	```html
+```html
 	<!-- info.component.html -->
 	<h1> <ng-content select=".title"> </h1>
 	<p> <ng-content select=".body"> </p>
