@@ -1,4 +1,5 @@
 ### CSS
+use to apply style to html elements.
 
 >alias use in this notes: dir = `{top, right, bottom, left}`
     
