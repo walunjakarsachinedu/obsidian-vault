@@ -41,14 +41,14 @@ We can pass data to directive using input property
 export class InputFormatDirective {
 	@Input('appInputFormat') format: any;
 	@HostListener('blur') onBlur() { 
-    let value: string = this.el.nativeElement.value;
-    if(this.format == 'lowercase') {
-      this.el.nativeElement.value = value.toLowerCase();
-    }
-    else {
-      this.el.nativeElement.value = value.toUpperCase();
-    }
-  }
+		let value: string = this.el.nativeElement.value;
+		if(this.format == 'lowercase') {
+		  this.el.nativeElement.value = value.toLowerCase();
+		}
+		else {
+		  this.el.nativeElement.value = value.toUpperCase();
+		}
+	}
 	constructor(private el: ElementRef) {} // el is reference to hosting element
 }
 ```

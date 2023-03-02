@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/building re-usable component.md",
+                "file": "framework/angular/directives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/building re-usable component.md",
+                "file": "framework/angular/directives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/building re-usable component.md",
+                "file": "framework/angular/directives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/building re-usable component.md"
+                "file": "framework/angular/directives.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904c43cc90f89fef",
+  "active": "7241f6108a01a8a1",
   "lastOpenFiles": [
+    "framework/angular/building re-usable component.md",
     "languages/html & css/css.md",
     "framework/angular/directives.md",
     "framework/angular/displaying data & handling event.md",
     "framework/angular/ng commands.md",
-    "framework/angular/building re-usable component.md",
     "notes/create entitlement.md",
     "notes/create role.md",
     "notes/DSP flow.md",
