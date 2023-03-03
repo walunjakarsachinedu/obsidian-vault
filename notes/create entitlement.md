@@ -7,7 +7,10 @@
 	4. request approved forward for approval
 	5. request closed (Active)
 3. Run CAG action performer in Sailpoint     
-	(Name of CAG: 42 8082 Action Performer pz)
+	1. go to setup > task
+	2. search task: "42 8082 Action Performer pz"
+	3. (make use case field empty) 
+	4. press "save & execute"
 4. check for created entitlement in Sailpoint Applications
 	1. Applications
 	2. Application definition

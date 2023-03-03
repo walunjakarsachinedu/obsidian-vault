@@ -14,7 +14,7 @@
 7. save & execute
 
 ##### now click on create review (steps)
-1. click on edit/view certification options
+1. click on[[1. general info]] edit/view certification options
 2. copy the id from url bar
 3. setup
 4. task

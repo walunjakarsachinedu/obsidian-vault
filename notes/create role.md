@@ -6,6 +6,11 @@
 3. If CAG is not run, then run CAG action performer (similar process as in entitlement)
 4. check for created role in sailpoint
 
+### main steps:
+event
+approve
+action
+
 ### To Modify Role:
 Similar process modifying role as an after creating role.
 

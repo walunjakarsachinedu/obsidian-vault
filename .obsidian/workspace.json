@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d0cd901f84a758d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/1. general info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "definition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "right": {
     "id": "c268d64d8edeb102",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/template driven forms.md",
+                "file": "notes/1. general info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/template driven forms.md",
+                "file": "notes/1. general info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/template driven forms.md"
+                "file": "notes/1. general info.md"
               }
             }
           }
@@ -159,18 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "272f32fb1d95195a",
+  "active": "5d0cd901f84a758d",
   "lastOpenFiles": [
-    "framework/angular/directives.md",
+    "notes/DSP flow.md",
+    "notes/1. general info.md",
     "framework/angular/template driven forms.md",
-    "framework/angular/building re-usable component.md",
-    "languages/html & css/css.md",
+    "framework/angular/directives.md",
+    "notes/create role.md",
     "framework/angular/displaying data & handling event.md",
     "framework/angular/ng commands.md",
     "notes/create entitlement.md",
-    "notes/create role.md",
-    "notes/DSP flow.md",
-    "notes/1. general info.md",
+    "framework/angular/building re-usable component.md",
+    "languages/html & css/css.md",
     "notes",
     "framework/angular/angular fundamentals.md",
     "languages/html & css/cheat-sheet.md",
