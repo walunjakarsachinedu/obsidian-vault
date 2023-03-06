@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/template driven forms.md",
+                "file": "notes/DSP flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1. general info.md",
+                "file": "framework/angular/angular fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cfdc9be598f364d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/create role.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "views",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/1. general info.md",
+                "file": "notes/DSP flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/1. general info.md",
+                "file": "notes/DSP flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/1. general info.md"
+                "file": "notes/DSP flow.md"
               }
             }
           }
@@ -171,20 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d0cd901f84a758d",
+  "active": "272f32fb1d95195a",
   "lastOpenFiles": [
-    "notes/DSP flow.md",
-    "notes/1. general info.md",
-    "framework/angular/template driven forms.md",
-    "framework/angular/directives.md",
+    "notes/create entitlement.md",
     "notes/create role.md",
+    "framework/angular/template driven forms.md",
+    "notes/DSP flow.md",
+    "framework/angular/angular fundamentals.md",
+    "framework/angular/directives.md",
+    "framework/angular/Reactive Forms.md",
+    "notes/1. general info.md",
+    "framework/angular/building re-usable component.md",
+    "framework/nodejs/module & packages.md",
     "framework/angular/displaying data & handling event.md",
     "framework/angular/ng commands.md",
-    "notes/create entitlement.md",
-    "framework/angular/building re-usable component.md",
     "languages/html & css/css.md",
     "notes",
-    "framework/angular/angular fundamentals.md",
     "languages/html & css/cheat-sheet.md",
     "languages/html & css/html.md",
     "languages/typescript/decorators.md",

@@ -1,24 +1,24 @@
 ### Step to create entitlements (steps)
-1. create entitement
-2. go to snow approve all entitlements 
-	1. status will change
-	2. submitted for approval
-	3. request approved pending submission
-	4. request approved forward for approval
-	5. request closed (Active)
-3. Run CAG action performer in Sailpoint     
+1. create entitlement 
+2. go to snow approve all entitlements  
+	1. approve all entitlement which match entitlement name or id
+3. Run CAG action performer in Sailpoint  
 	1. go to setup > task
 	2. search task: "42 8082 Action Performer pz"
 	3. (make use case field empty) 
 	4. press "save & execute"
 4. check for created entitlement in Sailpoint Applications
-	1. Applications
-	2. Application definition
-	3. Name (unix platform permission set)
-	4. accounts
-	5. name of your entitlement
-	6. 
-	7. it will show it is created
+	1. Applications > Application definition 
+	2. In application filter enter "unix platform permission set"
+	3. select accounts tab
+	4. enter name of your entitlement
+	6. it will show status of entitlement
+
+### entitlement states 
+	1. Sumitted For Approval
+	2. request approved pending submission
+	3. request approved forward for approval
+	4. request closed (Active)
 
 ### For Running CAG in Sailpoint:
 1. Sailpoint
