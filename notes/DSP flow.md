@@ -1,7 +1,7 @@
 ### DSP flow has 5 Stages
 1. create campaign
 2. create batch  (pass following parameters)
-![[images/create_batch.png]]
+![create batch](images/create_batch.png)
 4. import review (while creating batch)
 5. view generation (using sailpoint: run task "DSP 9-1 View Generation")
 
