@@ -29,7 +29,16 @@
 		2. add reviews to "reviews selected" 
 		3. add all reviews from "review selected" to "Associated Reviews"
  
- 
+
+#### View Generation
+1. from self service run the batch 
+2. sailpoint > task
+3. select "DSP 9-1 View Generation"
+4. pass "campaign & batch name"
+5. run "Save and Execute"    
+    
+>In view generation, batch status will change from "Created" to "In Progress"
+
 
 
 

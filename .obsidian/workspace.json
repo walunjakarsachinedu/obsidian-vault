@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9dca006e05ac6ff9",
+        "id": "22084d918a565457",
         "type": "tabs",
         "children": [
           {
-            "id": "5d0cd901f84a758d",
+            "id": "45a9030515370ef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/DSP flow.md",
+                "file": "framework/angular/forms/form.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0cfdc9be598f364d",
+            "id": "f802a1a2bddd6a95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/create role.md",
+                "file": "framework/angular/forms/reactive forms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "views",
+                "query": "keyup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/DSP flow.md",
+                "file": "framework/angular/forms/reactive forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/DSP flow.md",
+                "file": "framework/angular/forms/reactive forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/DSP flow.md"
+                "file": "framework/angular/forms/reactive forms.md"
               }
             }
           }
@@ -158,23 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d0cd901f84a758d",
+  "active": "f802a1a2bddd6a95",
   "lastOpenFiles": [
+    "framework/angular/forms/template driven forms.md",
+    "framework/angular/forms/reactive forms.md",
+    "framework/angular/forms/form.md",
+    "framework/angular/displaying data & handling event.md",
+    "framework/angular/forms",
+    "framework/angular/ng commands.md",
+    "framework/angular/directives.md",
+    "framework/angular/building re-usable component.md",
+    "framework/angular/angular fundamentals.md",
     "notes/create role.md",
     "notes/DSP flow.md",
-    "notes/1. general info.md",
     "notes/create entitlement.md",
-    "framework/angular/angular fundamentals.md",
+    "notes/1. general info.md",
     "notes/Untitled.md",
     "notes/images",
     "notes/images/create_batch.png",
-    "framework/angular/directives.md",
-    "framework/angular/template driven forms.md",
-    "framework/angular/Reactive Forms.md",
-    "framework/angular/building re-usable component.md",
     "framework/nodejs/module & packages.md",
-    "framework/angular/displaying data & handling event.md",
-    "framework/angular/ng commands.md",
     "languages/html & css/css.md",
     "notes",
     "languages/html & css/cheat-sheet.md",
