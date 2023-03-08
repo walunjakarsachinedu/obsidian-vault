@@ -1,31 +1,36 @@
 ### DSP flow has 5 Stages
-1. import review 
-2. create campaign
-3. view generation
+1. create campaign
+2. create batch  (pass following parameters)
+![[images/create_batch.png]]
+4. import review (while creating batch)
+5. view generation (using sailpoint: run task "DSP 9-1 View Generation")
 
 
-#### Importing review 
-1. Sailpoint
-2. setup
-3. certifications
-4. right click 
-5. use as template
-6. (schedule) run now
-7. save & execute
+#### Importing review
+1. creating review
+	1. create certificate
+		1. Sailpoint > setup > certifications
+		4. right click on certificate to be use as template
+		5. select "use as template"
+		6. (schedule) run now
+		7. save & execute
+	2. getting review Id
+		1. go to created certificate
+		2. click on "`[View/Edit Certification Options]`"
+		3. from url copy value of "certificationGroupId"
+2. import review
+	1. Sailpoint > task
+	2. select task "DSP 9-1 Manual Review Import"
+	3. paste review Id
+	4. run "Save & Execute"
+	5. we can see imported reiews under "self service > UAR Administration > Manage Reviews"
+	6. add review to batch 
+		1. create batch > associate reviews > copy paste review name
+		2. add reviews to "reviews selected" 
+		3. add all reviews from "review selected" to "Associated Reviews"
+ 
+ 
 
-##### now click on create review (steps)
-1. click on[[1. general info]] edit/view certification options
-2. copy the id from url bar
-3. setup
-4. task
-5. dsp
-6. manual review
-7. search your name
-8. copy it which is ready for assignment
-9. then click on batch action button modify 
-10. associate review -> in value paste name
-11. add 
-12. submit
-13. done
+
 
 
