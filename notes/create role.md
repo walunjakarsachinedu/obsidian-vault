@@ -1,3 +1,7 @@
+### Role
+Role is a collection of entitlements.
+Roles allow you to group related sets of access, from a single source or across multiple sources, to simplify access management for your users. Roles often group access according to job functions or other shared user attributes such as departments or locations. You can then configure roles for [automated provisioning](https://documentation.sailpoint.com/saas/help/provisioning/role_assignment.html) or for [access requests](https://documentation.sailpoint.com/saas/help/requests/config_ap_roles.html#configuring-roles-for-requests).
+         
 ### Steps to Create Role (steps)
 1. create role
 2. got to snow for approving request

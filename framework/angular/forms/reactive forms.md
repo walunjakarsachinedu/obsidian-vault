@@ -21,7 +21,8 @@ export class SignupFormComponent {
 ```
 
 #### Validators
-we can pass Validators & AsyncValidators inside constructor of `FormControl` as 2nd & 3rd argument respectively.
+we can pass Validators & AsyncValidators inside constructor of `FormControl` as 2nd & 3rd argument respectively.    
+We can apply validator to `FormControl, FormGroup, FormArray `
 
 ##### customValidator:
 - it is just a function which take `AbstractControl` as argument return `ValidationErrors | null`

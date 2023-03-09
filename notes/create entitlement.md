@@ -1,3 +1,9 @@
+### Entitlement
+Entitlements are permissions or rights that grant users access to specific resources such as applications, databases, and files..
+
+#### Line item
+Line items typically refer to the specific access entitlements that are assigned to individual users or groups.
+
 ### Step to create entitlements (steps)
 1. create entitlement 
 2. go to snow approve all entitlements  

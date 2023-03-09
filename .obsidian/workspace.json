@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/forms/form.md",
+                "file": "notes/theory/general info.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f802a1a2bddd6a95",
+            "id": "3940fdc34ea12424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/forms/reactive forms.md",
+                "file": "notes/create entitlement.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "keyup",
+                "query": "import",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/forms/reactive forms.md",
+                "file": "notes/create entitlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/forms/reactive forms.md",
+                "file": "notes/create entitlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/forms/reactive forms.md"
+                "file": "notes/create entitlement.md"
               }
             }
           }
@@ -159,22 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f802a1a2bddd6a95",
+  "active": "3940fdc34ea12424",
   "lastOpenFiles": [
-    "framework/angular/forms/template driven forms.md",
-    "framework/angular/forms/reactive forms.md",
-    "framework/angular/forms/form.md",
-    "framework/angular/displaying data & handling event.md",
-    "framework/angular/forms",
+    "notes/theory/certification.md",
+    "notes/theory/general info.md",
+    "notes/theory",
+    "notes/create role.md",
+    "notes/create entitlement.md",
+    "notes/DSP flow.md",
+    "framework/angular/angular fundamentals.md",
     "framework/angular/ng commands.md",
     "framework/angular/directives.md",
+    "framework/angular/displaying data & handling event.md",
     "framework/angular/building re-usable component.md",
-    "framework/angular/angular fundamentals.md",
-    "notes/create role.md",
-    "notes/DSP flow.md",
-    "notes/create entitlement.md",
-    "notes/1. general info.md",
-    "notes/Untitled.md",
+    "framework/angular/forms/form.md",
+    "framework/angular/forms/reactive forms.md",
+    "languages/typescript/module.md",
+    "framework/angular/forms/template driven forms.md",
+    "framework/angular/forms",
     "notes/images",
     "notes/images/create_batch.png",
     "framework/nodejs/module & packages.md",
@@ -189,8 +191,6 @@
     "languages/javascript/javascript-basics.md",
     "framework/nodejs/handling errors.md",
     "languages/html/Untitled.md",
-    "Tasks.md",
-    "Untitled.canvas",
-    "languages/javascript/modules.md"
+    "Untitled.canvas"
   ]
 }

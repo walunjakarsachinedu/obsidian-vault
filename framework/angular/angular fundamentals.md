@@ -13,4 +13,6 @@
    
 **Dependency injection**: 
 - when dependency is registered as provider in module then angular will create single instance of that class for entire module. (singleton pattern)
+- we can register dependency in "providers" of module
+- if dependency has other dependecies then register it in "imports" of module
 
