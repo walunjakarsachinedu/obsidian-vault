@@ -2,7 +2,7 @@
 Entitlements are permissions or rights that grant users access to specific resources such as applications, databases, and files..
 
 #### Line item
-Line items typically refer to the specific access entitlements that are assigned to individual users or groups.
+Line items typically refer to the specific access entitlements that are assigned to individual users or groups. If entitlement represent in table format then line item is specific row in that table.
 
 ### Step to create entitlements (steps)
 1. create entitlement 

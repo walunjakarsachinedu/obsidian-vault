@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/create entitlement.md",
+                "file": "notes/theory/certification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba4bf50ec779381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/create certificate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8089cd4cf7363dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/teams.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/create entitlement.md",
+                "file": "notes/teams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/create entitlement.md",
+                "file": "notes/teams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/create entitlement.md"
+                "file": "notes/teams.md"
               }
             }
           }
@@ -159,13 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3940fdc34ea12424",
+  "active": "8089cd4cf7363dc6",
   "lastOpenFiles": [
+    "notes/create certificate.md",
+    "notes/teams.md",
     "notes/theory/certification.md",
+    "notes/create entitlement.md",
     "notes/theory/general info.md",
     "notes/theory",
     "notes/create role.md",
-    "notes/create entitlement.md",
     "notes/DSP flow.md",
     "framework/angular/angular fundamentals.md",
     "framework/angular/ng commands.md",
@@ -190,7 +216,6 @@
     "languages/javascript/classes.md",
     "languages/javascript/javascript-basics.md",
     "framework/nodejs/handling errors.md",
-    "languages/html/Untitled.md",
     "Untitled.canvas"
   ]
 }
