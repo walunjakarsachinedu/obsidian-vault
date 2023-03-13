@@ -4,6 +4,8 @@
 ![create batch](images/create_batch.png)
 4. import review (while creating batch)
 5. view generation (using sailpoint: run task "DSP 9-1 View Generation")
+6. run the batch
+7. login as reviewer in self service and make decision and submit, Once all reviewer make decision then review tasks will be 100% completed.
 
 
 #### Importing review

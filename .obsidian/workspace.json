@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/theory/general info.md",
+                "file": "notes/DSP flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "785fd69cc01a6a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/doubt.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ba4bf50ec779381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/create certificate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8089cd4cf7363dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/teams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/teams.md",
+                "file": "notes/doubt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/teams.md",
+                "file": "notes/doubt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/teams.md"
+                "file": "notes/doubt.md"
               }
             }
           }
@@ -183,16 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8089cd4cf7363dc6",
+  "active": "785fd69cc01a6a66",
   "lastOpenFiles": [
-    "notes/create certificate.md",
-    "notes/teams.md",
-    "notes/theory/certification.md",
-    "notes/create entitlement.md",
-    "notes/theory/general info.md",
-    "notes/theory",
-    "notes/create role.md",
     "notes/DSP flow.md",
+    "notes/doubt.md",
+    "notes/teams.md",
+    "notes/theory/general info.md",
+    "notes/theory/certification.md",
+    "notes/create role.md",
+    "notes/create entitlement.md",
+    "notes/create certificate.md",
+    "notes/theory",
     "framework/angular/angular fundamentals.md",
     "framework/angular/ng commands.md",
     "framework/angular/directives.md",
@@ -215,7 +204,6 @@
     "languages/typescript/generic classes.md",
     "languages/javascript/classes.md",
     "languages/javascript/javascript-basics.md",
-    "framework/nodejs/handling errors.md",
     "Untitled.canvas"
   ]
 }
