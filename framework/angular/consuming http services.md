@@ -19,7 +19,7 @@ http.get(url).subscribe({
 	"error": error => {console.log(error)},
 });
 
-// another and more cleaner, maintaining syntax
+// another more cleaner & maintaining syntax
 http.get(url).pipe(
   catchError(
     (error: Response) => { return throwError(() => CustomError()); }
