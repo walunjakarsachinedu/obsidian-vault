@@ -1,4 +1,4 @@
-# Consuming HTTP Services
+### Consuming HTTP Services
 Angular provide `HTTP` object from `HTTPModule`.        
 Http object can be use in component using dependencies injection & by registering `HTTPModule` in imports.
     
@@ -7,7 +7,7 @@ Http provide `get, put, post, delete`  methods.
 >Best practice: make service class to encapsulate logic for communicating with backend  
 
 	 
-## Error Handling
+### Error Handling
 types of error:
 - unexpected: service is offline, network is down, unhandled exceptions
 - expected: "not found" errors (404), "bad request" errors (400)
@@ -30,7 +30,7 @@ http.get(url).pipe(
 class AppError {} // base class for all application errors
 class CustomError extends AppError {}
 ```
-
->Best practice in error handling: 
-> - in service, always try to return application specific user defined custom error 
-> - in service & component, use single function to encapsulate logic for error handling
+         
+Best practice in error handling: 
+ - in service, always try to return application specific user defined custom error 
+ - in service & component, use single function to encapsulate logic for error handling
