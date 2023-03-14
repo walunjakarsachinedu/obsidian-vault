@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "452fecd066b2482f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "framework/angular/consuming http services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fdd9bb6d01a8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "framework/angular/consuming http services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3940fdc34ea12424",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/doubt.md",
+                "file": "framework/angular/consuming http services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/doubt.md",
+                "file": "framework/angular/consuming http services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/doubt.md"
+                "file": "framework/angular/consuming http services.md"
               }
             }
           }
@@ -171,10 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "785fd69cc01a6a66",
+  "active": "a4fdd9bb6d01a8e5",
   "lastOpenFiles": [
-    "notes/DSP flow.md",
+    "framework/angular/lifecycle hooks.md",
+    "framework/angular/consuming http services.md",
+    "framework/angular/building re-usable component.md",
     "notes/doubt.md",
+    "notes/DSP flow.md",
     "notes/teams.md",
     "notes/theory/general info.md",
     "notes/theory/certification.md",
@@ -186,7 +213,6 @@
     "framework/angular/ng commands.md",
     "framework/angular/directives.md",
     "framework/angular/displaying data & handling event.md",
-    "framework/angular/building re-usable component.md",
     "framework/angular/forms/form.md",
     "framework/angular/forms/reactive forms.md",
     "languages/typescript/module.md",
@@ -202,8 +228,6 @@
     "languages/typescript/decorators.md",
     "languages/typescript/integration with javascript.md",
     "languages/typescript/generic classes.md",
-    "languages/javascript/classes.md",
-    "languages/javascript/javascript-basics.md",
     "Untitled.canvas"
   ]
 }
