@@ -4,7 +4,7 @@ Http object can be use in component using dependencies injection & by registerin
     
 Http provide `get, put, post, delete`  methods.
 
->Best practice: create service class contain logic only for communicating with 
+>Best practice: make service class to encapsulate logic for communicating with backend  
 
 types of error:
 - unexpected: service is offline, network is down, unhandled exceptions
