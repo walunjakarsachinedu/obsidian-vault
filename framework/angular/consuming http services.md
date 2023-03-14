@@ -6,6 +6,8 @@ Http provide `get, put, post, delete`  methods.
 
 >Best practice: make service class to encapsulate logic for communicating with backend  
 
+	 
+#### Error Handling
 types of error:
 - unexpected: service is offline, network is down, unhandled exceptions
 - expected: "not found" errors (404), "bad request" errors (400)
