@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/consuming http services.md",
+                "file": "framework/angular/angular fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "import",
+                "query": "provider",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/consuming http services.md",
+                "file": "framework/angular/angular fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/consuming http services.md",
+                "file": "framework/angular/angular fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/consuming http services.md"
+                "file": "framework/angular/angular fundamentals.md"
               }
             }
           }
@@ -195,11 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4fdd9bb6d01a8e5",
+  "active": "b372158460b8584c",
   "lastOpenFiles": [
-    "framework/angular/lifecycle hooks.md",
-    "framework/angular/consuming http services.md",
     "framework/angular/building re-usable component.md",
+    "framework/angular/angular fundamentals.md",
+    "framework/angular/consuming http services.md",
+    "framework/angular/lifecycle hooks.md",
     "notes/doubt.md",
     "notes/DSP flow.md",
     "notes/teams.md",
@@ -209,7 +211,6 @@
     "notes/create entitlement.md",
     "notes/create certificate.md",
     "notes/theory",
-    "framework/angular/angular fundamentals.md",
     "framework/angular/ng commands.md",
     "framework/angular/directives.md",
     "framework/angular/displaying data & handling event.md",

@@ -15,4 +15,12 @@
 - when dependency is registered as provider in module then angular will create single instance of that class for entire module. (singleton pattern)
 - we can register dependency in "providers" of module
 - if dependency has other dependecies then register it in "imports" of module
+- changes default class of provider with some another using this syntax:
+```typescript
+provider: [
+	// wherever `ErrorHandler` provider is referenced angular will replace it with MyCustomErrorHandler instance
+	
+	{ provide: ErrorHandler, useClass: MyCustomErrorHandler }
+]
+```
 
