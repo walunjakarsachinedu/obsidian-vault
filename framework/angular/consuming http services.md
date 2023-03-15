@@ -25,6 +25,7 @@ http.get(url).subscribe({
 // another more cleaner & maintaining syntax
 http.get(url).pipe(catchError(handleError));
 handleError(error: Response) => { return throwError(() => CustomError()); } 
+
 class AppError {} // base class for all application errors
 class CustomError extends AppError {}
 ```
