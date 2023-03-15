@@ -4,7 +4,7 @@ Http object can be use in component using dependencies injection & by registerin
     
 Http provide `get, put, post, delete`  methods.
 
->Best practice: make service class to encapsulate logic for communicating with backend  
+>Best practice: make service class to encapsulate logic for making http request & handling response  
 
 	 
 ### Error Handling
@@ -14,6 +14,7 @@ types of error:
          
 syntax for handling error:
 ```typescript
+
 http.get(url).subscribe({
 	// callback for successful request
 	"next": response => {console.log(response)},
@@ -22,15 +23,22 @@ http.get(url).subscribe({
 });
 
 // another more cleaner & maintaining syntax
-http.get(url).pipe(
-  catchError(
-    (error: Response) => { return throwError(() => CustomError()); }
-  )
-);
+http.get(url).pipe(catchError(handleError));
+handleError(error: Response) => { return throwError(() => CustomError()); } 
 class AppError {} // base class for all application errors
 class CustomError extends AppError {}
 ```
-         
+            
+note: we can use "`.pipe`" method of `Observable` to process response data in specific way.   
+           
 Best practice in error handling: 
- - in service, always try to return application specific user defined custom error 
- - in service & component, use single function to encapsulate logic for error handling
+ - in service, always try to return application specific user defined custom error.
+	 - This enables separation of concerns. Allow application to not directly work with response object which is return by service.
+	 - when defining custom error, include original error in it.
+ - in service use single function to encapsulate logic for error handling
+                          
+Types of updates:
+- Optimistics: we change ui immediately before sending request, if request is unsuccessful then we revert those ui changes
+- Peimmistics: we first make request after request is successful then only we make changes in ui
+                             
+Observable vs Promise: Observable are lazy, it will not make request unless someone subscribe to it whereas Promise are eager.
