@@ -43,3 +43,5 @@ Types of updates:
 - Peimmistics: we first make request after request is successful then only we make changes in ui
                              
 Observable vs Promise: Observable are lazy, it will not make request unless someone subscribe to it whereas Promise are eager.
+- observable is like  which return more than one value asynchronously
+- promise is like Future which return only single value asynchronously

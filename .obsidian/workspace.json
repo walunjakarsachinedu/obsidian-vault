@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d177a6de8619e669",
+        "id": "fd9c69e4d672e967",
         "type": "tabs",
         "children": [
           {
-            "id": "abf7d60f7306f895",
+            "id": "8ad335d0dbbd5320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/consuming http services.md",
+                "file": "framework/angular/routing and navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4560c1cb79c6ef6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "framework/angular/observable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbbab233b4afd42e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "framework/angular/routing and navigation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "provider",
+                "query": "observa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/consuming http services.md",
+                "file": "framework/angular/observable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/consuming http services.md",
+                "file": "framework/angular/observable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/consuming http services.md"
+                "file": "framework/angular/observable.md"
               }
             }
           }
@@ -146,15 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf7d60f7306f895",
+  "active": "4560c1cb79c6ef6f",
   "lastOpenFiles": [
-    "framework/angular/lifecycle hooks.md",
+    "framework/angular/routing and navigation.md",
+    "framework/angular/observable.md",
     "framework/angular/consuming http services.md",
+    "framework/angular/directives.md",
+    "framework/angular/displaying data & handling event.md",
+    "framework/angular/lifecycle hooks.md",
+    "framework/angular/angular fundamentals.md",
+    "framework/angular/building re-usable component.md",
+    "languages/typescript/integration with javascript.md",
+    "notes/doubt.md",
     "notes/create entitlement.md",
     "notes/DSP flow.md",
-    "framework/angular/building re-usable component.md",
-    "framework/angular/angular fundamentals.md",
-    "notes/doubt.md",
     "notes/teams.md",
     "notes/theory/general info.md",
     "notes/theory/certification.md",
@@ -162,8 +193,6 @@
     "notes/create certificate.md",
     "notes/theory",
     "framework/angular/ng commands.md",
-    "framework/angular/directives.md",
-    "framework/angular/displaying data & handling event.md",
     "framework/angular/forms/form.md",
     "framework/angular/forms/reactive forms.md",
     "languages/typescript/module.md",
@@ -176,9 +205,6 @@
     "notes",
     "languages/html & css/cheat-sheet.md",
     "languages/html & css/html.md",
-    "languages/typescript/decorators.md",
-    "languages/typescript/integration with javascript.md",
-    "languages/typescript/generic classes.md",
     "Untitled.canvas"
   ]
 }
