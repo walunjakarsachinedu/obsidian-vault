@@ -7,6 +7,7 @@ To "`.pipe`" we can pass
 - catchError: use handle error while providing value
 	- throwError: function return `Observable` with error.
  - map: use to map value provided by stream to some another value.
- - switchMap
+ - switchMap: allow you to switch to new observable and cancel the previous one.
+	 - it take value and return new observable
 
 

@@ -45,7 +45,7 @@ e.g, it can be use to highlight active nav element.
 - it is achieved using `routerLink` tag.
 
 
-### Accessing Route Parameters
+#### Accessing Route Parameters
 This parameter can be access using `ActivatedRoute` dependency provided by angular `RouteModule` 
 ```typescript
 // getting route parameter
@@ -57,3 +57,16 @@ router.queryParamMap.get('parameter-name').subscribe(value => console.log(value)
 ### Important note
 Angular not destroy component only if we navigate to same page using different route parameter. Because of which we need to subscribe to value provided by router parameter, so that component will get notify everytime new value arrive.
 - This is a reason why router return `Observable` & not `Promise`.
+
+
+#### Programmatic navigation
+using dependency injection get "`Router`" object and use  its "`navigate`"  method to perform navigation.
+```typescript
+
+submit() {
+	this.router.navigate(['/routes', "param1", "param2"], {
+		queryParams: { page: 1, order: "asc"}
+	})
+}
+```
+
