@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/routing and navigation.md",
+                "file": "framework/angular/05 forms/00 form.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/displaying data & handling event.md",
+                "file": "framework/angular/02 displaying data & handling event.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/routing and navigation.md",
+                "file": "framework/angular/07 routing and navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/routing and navigation.md",
+                "file": "framework/angular/05 forms/00 form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/routing and navigation.md",
+                "file": "framework/angular/05 forms/00 form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/routing and navigation.md"
+                "file": "framework/angular/05 forms/00 form.md"
               }
             }
           }
@@ -182,19 +182,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ad335d0dbbd5320",
+  "active": "7241f6108a01a8a1",
   "lastOpenFiles": [
+    "framework/angular/02 displaying data & handling event.md",
+    "framework/angular/03 building re-usable component.md",
+    "framework/angular/06 consuming http services.md",
+    "framework/angular/07 routing and navigation.md",
+    "framework/angular/01 angular fundamentals.md",
+    "framework/angular/00 observable.md",
+    "framework/angular/00 ng commands.md",
+    "framework/angular/00 lifecycle hooks.md",
     "notes/teams.md",
-    "framework/angular/routing and navigation.md",
-    "framework/angular/displaying data & handling event.md",
     "languages/typescript/decorators.md",
     "learn.md",
-    "framework/angular/observable.md",
-    "framework/angular/consuming http services.md",
-    "framework/angular/directives.md",
-    "framework/angular/lifecycle hooks.md",
-    "framework/angular/angular fundamentals.md",
-    "framework/angular/building re-usable component.md",
+    "framework/angular/04 directives.md",
     "languages/typescript/integration with javascript.md",
     "notes/doubt.md",
     "notes/create entitlement.md",
@@ -204,12 +205,11 @@
     "notes/create role.md",
     "notes/create certificate.md",
     "notes/theory",
-    "framework/angular/ng commands.md",
-    "framework/angular/forms/form.md",
-    "framework/angular/forms/reactive forms.md",
+    "framework/angular/05 forms/00 form.md",
+    "framework/angular/05 forms/01 reactive forms.md",
     "languages/typescript/module.md",
-    "framework/angular/forms/template driven forms.md",
-    "framework/angular/forms",
+    "framework/angular/05 forms/02 template driven forms.md",
+    "framework/angular/05 forms",
     "notes/images",
     "notes/images/create_batch.png",
     "framework/nodejs/module & packages.md",

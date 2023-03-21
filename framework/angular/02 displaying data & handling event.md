@@ -2,7 +2,7 @@
 - interpolation : e.g, `<h2>{{title}}<h2>`,    where title is field in class.
 	- showing `title` field in component class
 - property binding : bind attribute to member of component class.
-	- e.g., `<img [src]="imageUrl"/>`,    wh  ere imageUrl is field in class.
+	- e.g., `<img [src]="imageUrl"/>`,    where imageUrl is field in class.
 	- behind the scene, angular convert **interpolation to property binding**
 	- binding is done in only one way from component  to dom
 - class binding  : adding class based on member of component class.
