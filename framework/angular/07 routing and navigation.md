@@ -11,10 +11,12 @@ In angular, we add navigation using following steps
 // file:app.module.ts
 @NgModule({
   imports: [
-    { path: '', component: HomeComponent },
-    { path: 'home', component: HomeComponent },
-	{ path: 'posts', component: PostsComponent },
-	{ path: 'post', component: PostComponent },
+	RouterModule.forRoot([
+	  { path: '', component: HomeComponent },
+	  { path: 'home', component: HomeComponent },
+	  { path: 'posts', component: PostsComponent },
+	  { path: 'post', component: PostComponent },
+	]),
   ]
 })
 ```
@@ -55,7 +57,7 @@ router.queryParamMap.get('parameter-name').subscribe(value => console.log(value)
 ```
 
 ### Important note
-Angular not destroy component only if we navigate to same page using different route parameter. Because of which we need to subscribe to value provided by router parameter, so that component will get notify everytime new value arrive.
+Angular doesn't destroy component only if we navigate to same page using different route parameter. Because of which we need to subscribe to value provided by router parameter, so that component will get notify everytime new value arrive.
 - This is a reason why router return `Observable` & not `Promise`.
 
 
