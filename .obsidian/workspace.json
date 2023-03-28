@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/08 authentication and authorization.md",
+                "file": "framework/angular/00 observable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f64771b3cdc5fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shopping app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jwt",
+                "query": "switchmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/08 authentication and authorization.md",
+                "file": "shopping app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/08 authentication and authorization.md",
+                "file": "shopping app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/08 authentication and authorization.md"
+                "file": "shopping app.md"
               }
             }
           }
@@ -159,17 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15ff4d028541948c",
+  "active": "8f64771b3cdc5fdc",
   "lastOpenFiles": [
-    "framework/angular/07 routing and navigation.md",
+    "framework/angular/00 observable.md",
+    "shopping app.md",
     "framework/angular/08 authentication and authorization.md",
+    "framework/angular/07 routing and navigation.md",
     "framework/nodejs/authentication & authorization.md",
     "framework/angular/02 displaying data & handling event.md",
     "framework/angular/01 angular fundamentals.md",
     "doubts.md",
     "learn.md",
     "notes/DSP flow.md",
-    "framework/angular/00 observable.md",
     "notes/theory/certification.md",
     "notes/create role.md",
     "framework/angular/05 forms/02 template driven forms.md",
@@ -187,7 +200,6 @@
     "framework/angular/06 consuming http services.md",
     "notes/teams.md",
     "framework/angular/04 directives.md",
-    "framework/angular/03 building re-usable component.md",
     "notes/theory",
     "framework/angular/05 forms",
     "notes/images",

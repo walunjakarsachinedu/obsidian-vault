@@ -34,3 +34,6 @@ We can use the user data stored in the JWT to show and hide content in our Angul
 
 #### Protecting routes based on user role:
 We can create route guards for specific user roles and apply them to routes that are only accessible by users with that role.
+
+
+>note: To set the default home page based on the current status of the user, use the `ngOnInit()` method of a component to check the user's status and navigate to a different page if necessary.
