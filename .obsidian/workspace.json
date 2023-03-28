@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/05 forms/01 reactive forms.md",
+                "file": "framework/angular/07 routing and navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15ff4d028541948c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "framework/angular/08 authentication and authorization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jwt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 228.5
   },
   "right": {
     "id": "c268d64d8edeb102",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/05 forms/01 reactive forms.md",
+                "file": "framework/angular/08 authentication and authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/05 forms/01 reactive forms.md",
+                "file": "framework/angular/08 authentication and authorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/05 forms/01 reactive forms.md"
+                "file": "framework/angular/08 authentication and authorization.md"
               }
             }
           }
@@ -146,21 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9aac7b1f3fea68ed",
+  "active": "15ff4d028541948c",
   "lastOpenFiles": [
+    "framework/angular/07 routing and navigation.md",
+    "framework/angular/08 authentication and authorization.md",
+    "framework/nodejs/authentication & authorization.md",
+    "framework/angular/02 displaying data & handling event.md",
+    "framework/angular/01 angular fundamentals.md",
+    "doubts.md",
+    "learn.md",
+    "notes/DSP flow.md",
+    "framework/angular/00 observable.md",
+    "notes/theory/certification.md",
+    "notes/create role.md",
     "framework/angular/05 forms/02 template driven forms.md",
     "framework/angular/05 forms/01 reactive forms.md",
     "framework/angular/05 forms/00 form.md",
     "framework/angular/00 lifecycle hooks.md",
     "languages/typescript/class, interface & oop.md",
     "languages/typescript/decorators.md",
-    "framework/angular/07 routing and navigation.md",
-    "framework/angular/02 displaying data & handling event.md",
     "framework/graphql/basics.md",
     "framework/Untitled.md",
     "framework/graphql",
-    "framework/angular/01 angular fundamentals.md",
-    "framework/angular/00 observable.md",
     "framework/angular/00 ng commands.md",
     "languages/html & css/css.md",
     "languages/bash/bash script.md",
@@ -168,13 +188,6 @@
     "notes/teams.md",
     "framework/angular/04 directives.md",
     "framework/angular/03 building re-usable component.md",
-    "learn.md",
-    "languages/typescript/integration with javascript.md",
-    "notes/doubt.md",
-    "notes/create entitlement.md",
-    "notes/DSP flow.md",
-    "notes/theory/general info.md",
-    "notes/theory/certification.md",
     "notes/theory",
     "framework/angular/05 forms",
     "notes/images",

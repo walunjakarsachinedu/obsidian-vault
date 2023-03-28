@@ -5,6 +5,7 @@
 	- e.g., `<img [src]="imageUrl"/>`,    where imageUrl is field in class.
 	- behind the scene, angular convert **interpolation to property binding**
 	- binding is done in only one way from component  to dom
+	- The scope of binding expressions in a components template is the components class instance. You can't refer to globals or statics directly in property binding.
 - class binding  : adding class based on member of component class.
 	- e.g., `<button class="btn" [class.active]=isActive>Save<button>`
 	- conditionally including `active` class based on `isActive` boolean variable.
