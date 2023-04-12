@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shopping app.md",
+                "file": "learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shopping app.md",
+                "file": "learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shopping app.md",
+                "file": "learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shopping app.md"
+                "file": "learn.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "8f64771b3cdc5fdc",
   "lastOpenFiles": [
-    "framework/angular/00 observable.md",
     "shopping app.md",
+    "framework/angular/00 observable.md",
     "framework/angular/08 authentication and authorization.md",
     "framework/angular/07 routing and navigation.md",
     "framework/nodejs/authentication & authorization.md",
