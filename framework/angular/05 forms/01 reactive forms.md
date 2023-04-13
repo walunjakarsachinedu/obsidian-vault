@@ -4,11 +4,11 @@ In reactive forms,
 - we first create instance of `FormGroup` in component, 
 - then use `formGroup` directive to link this instance to template 
 - `formControlName` is use to link individual input by setting value of `formControlName` to key in form control
-- use `form.get("password")?.errors` to get errors password input field.
+- use `form.get("password")?.errors` to get errors of password input field.
 ```html
 <!-- template -->
 <div [formGroup]='form'>
-	<input formControlName='username'>
+	<input formControlName='password'>
 </div>
 ```
 ```typescript

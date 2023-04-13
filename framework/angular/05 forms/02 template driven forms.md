@@ -1,6 +1,6 @@
 ### Template driven forms
 - By applying `ngModel, ngGroup` directives, angular will automatically create `FormControl, FormGroup` object correspondingly for us.
-- It is required to set value of `name` attribute when `ngModel` directive is used.
+- It is required to set value of `name` attribute when `ngModel` directive is used, because it sets up a mapping between the input's value and the corresponding property on the form's value object.
 - we can use template variable to get access to form controller, by setting its value to `ngModel` as `<input ngModel name='firstname' #template_var='ngModel'>`
 - `errors`  is object provided by `ngModel` to access errors.
 ```typescript

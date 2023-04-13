@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9aac7b1f3fea68ed",
+            "id": "7a7912de6bc03293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/07 routing and navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15ff4d028541948c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "framework/angular/00 observable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f64771b3cdc5fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn.md",
+                "file": "notes/my ownerships.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn.md",
+                "file": "notes/my ownerships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn.md",
+                "file": "notes/my ownerships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn.md"
+                "file": "notes/my ownerships.md"
               }
             }
           }
@@ -171,23 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f64771b3cdc5fdc",
+  "active": "7a7912de6bc03293",
   "lastOpenFiles": [
-    "shopping app.md",
     "framework/angular/00 observable.md",
+    "notes/my ownerships.md",
+    "framework/angular/05 forms/02 template driven forms.md",
+    "framework/angular/05 forms/01 reactive forms.md",
+    "framework/angular/05 forms/00 form.md",
     "framework/angular/08 authentication and authorization.md",
     "framework/angular/07 routing and navigation.md",
+    "framework/angular/06 consuming http services.md",
+    "learn.md",
+    "shopping app.md",
     "framework/nodejs/authentication & authorization.md",
     "framework/angular/02 displaying data & handling event.md",
     "framework/angular/01 angular fundamentals.md",
     "doubts.md",
-    "learn.md",
     "notes/DSP flow.md",
     "notes/theory/certification.md",
     "notes/create role.md",
-    "framework/angular/05 forms/02 template driven forms.md",
-    "framework/angular/05 forms/01 reactive forms.md",
-    "framework/angular/05 forms/00 form.md",
     "framework/angular/00 lifecycle hooks.md",
     "languages/typescript/class, interface & oop.md",
     "languages/typescript/decorators.md",
@@ -197,9 +174,7 @@
     "framework/angular/00 ng commands.md",
     "languages/html & css/css.md",
     "languages/bash/bash script.md",
-    "framework/angular/06 consuming http services.md",
     "notes/teams.md",
-    "framework/angular/04 directives.md",
     "notes/theory",
     "framework/angular/05 forms",
     "notes/images",
