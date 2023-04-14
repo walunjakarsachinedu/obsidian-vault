@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/my ownerships.md",
+                "file": "learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/my ownerships.md",
+                "file": "learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/my ownerships.md",
+                "file": "learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/my ownerships.md"
+                "file": "learn.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "7a7912de6bc03293",
   "lastOpenFiles": [
-    "framework/angular/00 observable.md",
     "notes/my ownerships.md",
+    "framework/angular/00 observable.md",
     "framework/angular/05 forms/02 template driven forms.md",
     "framework/angular/05 forms/01 reactive forms.md",
     "framework/angular/05 forms/00 form.md",
