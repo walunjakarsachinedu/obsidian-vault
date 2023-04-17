@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md",
+                "file": "framework/angular/07 routing and navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "switchmap",
+                "query": "manage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md",
+                "file": "framework/angular/07 routing and navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md",
+                "file": "framework/angular/07 routing and navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md"
+                "file": "framework/angular/07 routing and navigation.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "7a7912de6bc03293",
   "lastOpenFiles": [
+    "shopping app.md",
+    "learn.md",
+    "framework/angular/01 angular fundamentals.md",
     "framework/angular/00 observable.md",
     "framework/angular/00 lifecycle hooks.md",
     "framework/angular/04 directives.md",
-    "shopping app.md",
-    "learn.md",
     "notes/my ownerships.md",
     "framework/angular/05 forms/02 template driven forms.md",
     "framework/angular/05 forms/01 reactive forms.md",
@@ -162,7 +163,6 @@
     "framework/angular/06 consuming http services.md",
     "framework/nodejs/authentication & authorization.md",
     "framework/angular/02 displaying data & handling event.md",
-    "framework/angular/01 angular fundamentals.md",
     "doubts.md",
     "notes/DSP flow.md",
     "notes/theory/certification.md",
