@@ -4,7 +4,9 @@
 - whenever angular sees selector of component it will render template of component
     
 **module**: container for group of related components 
-- when module become very big we may need to split that module in sub-module
+- when module become very big, it may need to be split that module in sub-module
+- `forRoot()` method is typically used when you want to configure a module before it is imported by other modules.
+- If you need to import a module multiple times with different configurations, you can create a `forChild()` method and use it to configure the module.
     
 **Template**: we can use value class member  inside template through interpolation
 - if value of member changes angular will automatically re-render DOM.

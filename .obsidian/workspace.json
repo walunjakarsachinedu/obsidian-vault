@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shopping app.md",
+                "file": "framework/angular/01 angular fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shopping app.md",
+                "file": "framework/angular/01 angular fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shopping app.md",
+                "file": "framework/angular/01 angular fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shopping app.md"
+                "file": "framework/angular/01 angular fundamentals.md"
               }
             }
           }
@@ -148,16 +148,18 @@
   },
   "active": "7a7912de6bc03293",
   "lastOpenFiles": [
+    "framework/angular/00 observable.md",
+    "framework/angular/00 lifecycle hooks.md",
+    "framework/angular/04 directives.md",
+    "shopping app.md",
     "learn.md",
     "notes/my ownerships.md",
-    "framework/angular/00 observable.md",
     "framework/angular/05 forms/02 template driven forms.md",
     "framework/angular/05 forms/01 reactive forms.md",
     "framework/angular/05 forms/00 form.md",
     "framework/angular/08 authentication and authorization.md",
     "framework/angular/07 routing and navigation.md",
     "framework/angular/06 consuming http services.md",
-    "shopping app.md",
     "framework/nodejs/authentication & authorization.md",
     "framework/angular/02 displaying data & handling event.md",
     "framework/angular/01 angular fundamentals.md",
@@ -165,7 +167,6 @@
     "notes/DSP flow.md",
     "notes/theory/certification.md",
     "notes/create role.md",
-    "framework/angular/00 lifecycle hooks.md",
     "languages/typescript/class, interface & oop.md",
     "languages/typescript/decorators.md",
     "framework/graphql/basics.md",
@@ -174,7 +175,6 @@
     "framework/angular/00 ng commands.md",
     "languages/html & css/css.md",
     "languages/bash/bash script.md",
-    "notes/teams.md",
     "notes/theory",
     "framework/angular/05 forms",
     "notes/images",
