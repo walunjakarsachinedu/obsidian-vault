@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37cd7015a23bb753",
+  "active": "7241f6108a01a8a1",
   "lastOpenFiles": [
+    "Untitled",
     "framework/angular/07 routing and navigation.md",
     "framework/angular/06 consuming http services.md",
     "framework/angular/04 directives.md",
@@ -173,7 +174,6 @@
     "doubts.md",
     "notes/DSP flow.md",
     "notes/theory/certification.md",
-    "notes/create role.md",
     "framework/graphql",
     "notes/theory",
     "framework/angular/05 forms",

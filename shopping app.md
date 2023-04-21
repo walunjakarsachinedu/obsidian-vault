@@ -1,14 +1,12 @@
 ### Shopping Website
 
-#### feature to implement:
-- [x] add new user &  authenticate, authorize user
-- [x] add page for product list & product detail
-- [x] add logic to filter product
-- [ ] allow admin to add new products
-- [ ] add to cart 
-- [ ] buy product 
-- [ ] manage users
-
+thing to implement:
+- [ ] on buying product cart should get empty
+- [ ] add option to add new product
+- [ ] feedback on adding product to cart
+- [ ] auto-fill user detail in payment page (by storing user detail in local storage in same object as token)
+- [ ] back button on payment page
+- [ ] order history is not working
 
 things to add:
 - popup for created users, already existing users
