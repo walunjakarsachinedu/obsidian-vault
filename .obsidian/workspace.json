@@ -10,13 +10,15 @@
           {
             "id": "37cd7015a23bb753",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "shopping app.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -146,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7241f6108a01a8a1",
+  "active": "37cd7015a23bb753",
   "lastOpenFiles": [
     "Untitled",
     "framework/angular/07 routing and navigation.md",
