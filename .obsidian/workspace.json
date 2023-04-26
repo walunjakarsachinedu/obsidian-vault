@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "43a863dda139fde6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shopping app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37cd7015a23bb753",
+  "active": "43a863dda139fde6",
   "lastOpenFiles": [
+    "learn.md",
+    "shopping app.md",
     "Untitled",
     "framework/angular/07 routing and navigation.md",
     "framework/angular/06 consuming http services.md",
@@ -165,8 +180,6 @@
     "framework/angular/00 observable.md",
     "framework/angular/00 ng commands.md",
     "framework/angular/00 lifecycle hooks.md",
-    "shopping app.md",
-    "learn.md",
     "notes/my ownerships.md",
     "framework/angular/05 forms/02 template driven forms.md",
     "framework/angular/05 forms/01 reactive forms.md",
