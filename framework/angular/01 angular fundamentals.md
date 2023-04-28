@@ -5,6 +5,8 @@
     
 **module**: container for group of related components 
 - when module become very big, it may need to be split that module in sub-module
+- when module is imported, it import components, directives, services, pipes.
+- to exports specific things use "exports" field.
 - `forRoot()` method is typically used when you want to configure a module before it is imported by other modules.
 - If you need to import a module multiple times with different configurations, you can create a `forChild()` method and use it to configure the module.
     

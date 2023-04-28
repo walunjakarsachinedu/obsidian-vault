@@ -7,6 +7,12 @@ In angular, we add navigation using following steps
 - add links
         
 #### Configure the Routes
+- use `RouterModule.forRoot` to configure app level route configuration
+	- `forRoot` should be call only once.
+- use `RouterModule.forChild` to configure module level route configuration
+- children attribute to hierarchy of routes.
+- 
+
 ```typescript
 // file:app.module.ts
 @NgModule({
@@ -14,8 +20,7 @@ In angular, we add navigation using following steps
 	RouterModule.forRoot([
 	  { path: '', component: HomeComponent },
 	  { path: 'home', component: HomeComponent },
-	  { path: 'posts', component: PostsComponent },
-	  { path: 'post', component: PostComponent },
+	  { path: 'post', component: PostComponent, children: [] },
 	]),
   ]
 })

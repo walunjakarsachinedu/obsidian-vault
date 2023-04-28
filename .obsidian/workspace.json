@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37cd7015a23bb753",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shopping app.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "43a863dda139fde6",
+            "id": "284f8bc813e69ad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shopping app.md",
+                "file": "framework/angular/01 angular fundamentals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shopping app.md",
+                "file": "framework/angular/01 angular fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shopping app.md",
+                "file": "framework/angular/01 angular fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shopping app.md"
+                "file": "framework/angular/01 angular fundamentals.md"
               }
             }
           }
@@ -161,25 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43a863dda139fde6",
+  "active": "284f8bc813e69ad8",
   "lastOpenFiles": [
-    "learn.md",
-    "shopping app.md",
-    "Untitled",
-    "framework/angular/07 routing and navigation.md",
-    "framework/angular/06 consuming http services.md",
-    "framework/angular/04 directives.md",
     "framework/angular/03 building re-usable component.md",
-    "framework/angular/02 displaying data & handling event.md",
+    "framework/angular/00 ng commands.md",
     "framework/angular/01 angular fundamentals.md",
+    "framework/angular/02 displaying data & handling event.md",
+    "framework/angular/00 observable.md",
+    "framework/angular/04 directives.md",
+    "framework/angular/07 routing and navigation.md",
+    "framework/angular/random things.md",
+    "framework/angular/00 lifecycle hooks.md",
+    "shopping app.md",
+    "learn.md",
+    "Untitled",
+    "framework/angular/06 consuming http services.md",
     "languages/typescript/tsconfig.md",
     "languages/typescript/typescript-basics.md",
     "languages/typescript/module.md",
     "languages/typescript/advanced-types.md",
     "languages/typescript/class, interface & oop.md",
-    "framework/angular/00 observable.md",
-    "framework/angular/00 ng commands.md",
-    "framework/angular/00 lifecycle hooks.md",
     "notes/my ownerships.md",
     "framework/angular/05 forms/02 template driven forms.md",
     "framework/angular/05 forms/01 reactive forms.md",
