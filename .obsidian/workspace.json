@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md",
+                "file": "framework/angular/ng-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md",
+                "file": "framework/angular/ng-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md",
+                "file": "framework/angular/ng-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/angular/01 angular fundamentals.md"
+                "file": "framework/angular/ng-template.md"
               }
             }
           }
@@ -146,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "284f8bc813e69ad8",
+  "active": "7241f6108a01a8a1",
   "lastOpenFiles": [
+    "framework/angular/01 angular fundamentals.md",
     "framework/angular/03 building re-usable component.md",
     "framework/angular/00 ng commands.md",
-    "framework/angular/01 angular fundamentals.md",
     "framework/angular/02 displaying data & handling event.md",
     "framework/angular/00 observable.md",
     "framework/angular/04 directives.md",
     "framework/angular/07 routing and navigation.md",
-    "framework/angular/random things.md",
+    "framework/angular/ng-template.md",
     "framework/angular/00 lifecycle hooks.md",
     "shopping app.md",
     "learn.md",
